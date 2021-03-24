@@ -1,6 +1,8 @@
 # FCC-personal-portfolio
-<!--- ![iQVpFdUW1z](https://user-images.githubusercontent.com/67667160/111914853-2b15e400-8a4a-11eb-9db3-9b2d4ea17bc7.gif) --->
-![chrome_ab2cIVIrAT](https://user-images.githubusercontent.com/67667160/111915867-aa0d1b80-8a4e-11eb-90db-4a269cdfd78f.png)
+
+
+![chrome_c94F3sYWRx](https://user-images.githubusercontent.com/67667160/112369694-da54f400-8cb2-11eb-8a60-7279f4f2334e.png)
+
 
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/paolourciullo/FCC-personal-portfolio)
