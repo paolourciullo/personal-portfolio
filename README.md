@@ -1,4 +1,4 @@
-# FCC-personal-portfolio
+# Personal-portfolio
 
 
 ![chrome_c94F3sYWRx](https://user-images.githubusercontent.com/67667160/112369694-da54f400-8cb2-11eb-8a60-7279f4f2334e.png)
