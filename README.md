@@ -29,5 +29,5 @@ I plan on using this as a way for people to view what I can make on the web and 
 
 ## Contact
 
-If you want to contact me you can reach me at <paolourciullo@gmail.com>.
+If you want to contact me you can reach me at <info@paolourciullo.com>.
 
