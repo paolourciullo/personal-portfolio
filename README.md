@@ -5,10 +5,10 @@
 
 
 
-![GitHub repo size](https://img.shields.io/github/repo-size/paolourciullo/FCC-personal-portfolio)
-![GitHub contributors](https://img.shields.io/github/contributors/paolourciullo/FCC-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/paolourciullo/FCC-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/paolourciullo/FCC-personal-portfolio?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/paolourciullo/personal-portfolio)
+![GitHub contributors](https://img.shields.io/github/contributors/paolourciullo/personal-portfolio)
+![GitHub stars](https://img.shields.io/github/stars/paolourciullo/personal-portfolio?style=social)
+![GitHub forks](https://img.shields.io/github/forks/paolourciullo/personal-portfolio?style=social)
 ![Follow](https://img.shields.io/twitter/follow/paolo__init__?style=social)
 
 
@@ -19,7 +19,7 @@ This is my first portfolio to showcase my work and my skills.  I plan on adding 
 
 
 ## URL
-[personal-portfolio](https://paolourciullo.github.io/FCC-personal-portfolio/)
+[personal-portfolio](https://paolourciullo.github.io/personal-portfolio/)
 
 
 
