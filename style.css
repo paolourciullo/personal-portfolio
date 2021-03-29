@@ -201,62 +201,6 @@ background-size: contain;
   padding: 2rem 0.5rem;
 }
 
-.btnToast {
-  background-color: #fff;
-  color: rebeccapurple;
-  position: absolute;
-  font-family: inherit;
-  font-weight: bold;
-  padding: 1rem;
-  border-radius: 5px;
-  border: none;
-  cursor: pointer;
-  margin-top: 10px;
-  margin-left: 80vw;
-}
-
-.btnToast:focus {
-  outline: none;
-
-}
-
-.btnToast:active {
-  transform: scale(0.98);
-}
-
-#toasts {
-  position: fixed;
-  bottom: 10px;
-  right: 10px;
-  display: flex;
-  flex-direction: column;
-  align-items: flex-end;
-}
-
-.toast {
-  background-color: #fff;
-  
-  border-radius: 5px;
-  padding: 1rem 2rem;
-  margin: 0.5rem;
-}
-
-.toast.info {
-  color: rebeccapurple;
-}
-
-.toast.success {
-  color: green;
-}
-
-.toast.error {
-  color: red;
-}
-
-
-
-
-
 .btn {
   display: inline-block;
   padding: 1rem 2rem;
