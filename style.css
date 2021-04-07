@@ -134,7 +134,7 @@ img {
   width: 100%;
 }
 
-.nav {
+nav {
   display: flex;
   justify-content: flex-end;
   position: fixed;
