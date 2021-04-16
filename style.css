@@ -134,7 +134,7 @@ img {
   width: 100%;
 }
 
-.nav {
+nav {
   display: flex;
   justify-content: flex-end;
   position: fixed;
@@ -350,6 +350,14 @@ footer {
     rgb(233, 222, 155),
     rgb(110, 153, 20)
   );
+  border-top: 4px solid var(--main-red);
+}
+#footer1.dark {
+  font-weight: 300;
+  display: flex;
+  justify-content: space-evenly;
+  padding: 2rem;
+  background-color: rgba(0, 0, 0, 0.5);
   border-top: 4px solid var(--main-red);
 }
 
