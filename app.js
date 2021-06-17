@@ -7,7 +7,3 @@ checkbox.addEventListener('change', () => {
   document.querySelector('#navbar').classList.toggle('dark');
   document.querySelector('#footer1').classList.toggle('dark');
 });
-
-for (let i = 0; i < logo.length; i++) {
-  console.log(`Letter ${i} is ${logo[i].getTotalLength()}`);
-}
